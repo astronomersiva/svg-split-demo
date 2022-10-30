@@ -1,0 +1,11 @@
+{
+  "name": "split-svgs",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "broccoli-concat": "*",
+    "broccoli-funnel": "*",
+    "broccoli-merge-trees": "*"
+  }
+}
